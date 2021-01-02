@@ -133,7 +133,6 @@ Theme authors can use their own way for users to configure styles (not be limite
 - `extendsCli` -> removed
 - `configureWebpack` -> removed
 - `chainWebpack` -> removed
-- `chainMarkdown` -> removed (undocumented in 1.0)
 - `beforeDevServer` -> removed
 - `afterDevServer` -> removed
 
